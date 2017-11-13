@@ -209,3 +209,9 @@ Main Components
 		display: block;
 	}
 }
+
+@media (max-width: 1200px) {
+  body {
+	display: none  
+}
+}
